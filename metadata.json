@@ -1,0 +1,6 @@
+{
+  "name": "CampusQuery AI - College Enquiry & Admission Assistant",
+  "description": "AI-powered 24/7 college enquiry chatbot, course explorer, admissions guidance, knowledge base RAG retrieval, and administrative dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
